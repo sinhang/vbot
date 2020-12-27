@@ -21,7 +21,7 @@
         "illuminate/config": "^5.4",
         "illuminate/cache": "^5.4",
         "illuminate/filesystem": "^5.4",
-        "illuminate/container": "^5.4",
+        "illuminate/container": "^5.4"
     },
     "autoload": {
         "files": [
